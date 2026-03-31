@@ -1,4 +1,4 @@
-# Bugema Marketplace
+# Bugema Marketplace,
 
 A modern, responsive full-stack marketplace starter built with:
 
