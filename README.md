@@ -17,7 +17,7 @@ A modern, responsive full-stack marketplace starter built with:
 - Product Details Page
 - User Dashboard
 - Upload Product Page
-- Chat Page
+- Chat Page.
 - Admin Panel
 
 ## Folder Structure
@@ -179,7 +179,7 @@ miniwebsite-fullstack/
 ### Backend
 
 1. Open a terminal in `miniwebsite-fullstack/backend`
-2. Create a virtual environment
+2. Create a virtual environment,
 3. Install dependencies with `pip install -r requirements.txt`
 4. Create a PostgreSQL database
 5. Update environment variables for DB, JWT secret, and storage
